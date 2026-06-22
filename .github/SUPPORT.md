@@ -5,7 +5,7 @@ Thanks for using OpenCut! If you need help, here are your options:
 ## Documentation
 
 - Check our [README](../README.md) for basic setup instructions
-- Review the [Contributing Guidelines](CONTRIBUTING.md) for development setup
+- Review the [Contributing Guidelines](../README.md#contributing) for development setup
 
 ## Issues
 
